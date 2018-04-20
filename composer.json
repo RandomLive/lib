@@ -1,0 +1,14 @@
+{
+    "name": "chupinxiu/lib",
+    "description": "share library between projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "su xiaolin",
+            "email": "suxiaolin@chupinxiu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
